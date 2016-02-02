@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /usr/local/apache/htdocs/shogi/dev/node
+
+git --git-dir=.git pull
